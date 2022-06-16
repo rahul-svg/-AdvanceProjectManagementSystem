@@ -1,0 +1,43 @@
+.analysis{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: large;
+    font-weight: 200;
+    font-family: ' sans-serif';
+    color:black;
+    padding:25px;
+} 
+
+.title{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+.piechart{
+    display: flex;
+    width:40vw;
+    height:auto;
+}
+
+.chart-description{
+    display:flex;
+    flex-direction: column;
+}
+
+.chart-square{
+    display:flex;
+    width:20px;
+    height:20px;
+    
+    margin:10px;
+}
+.chart-name{
+    display:flex;
+    flex-direction: row;
+}

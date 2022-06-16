@@ -1,0 +1,59 @@
+.addStudent{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../../assets//students.jpg);
+    height:80.5vh;
+    color: blue; 
+}
+
+
+.header h1{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+   
+}
+
+.form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-end;
+    margin-top: 40px;
+    background-color: red;
+    padding:20px;
+}
+
+.entity label{
+    font-size:x-large;
+    font-weight: 400;
+    color: black;
+    font-family: sans-serif;
+    margin:10px;
+}
+
+.entity input{
+    width:20vw;
+    border-radius: 5px;
+}
+
+.button{
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: blue;
+}
+
+.here{
+font-weight: bolder;
+font-size: larger;
+color: black;
+
+}
+
+.url{
+font-weight: bolder;
+font-size: x-large;
+font-weight: 1200;
+}

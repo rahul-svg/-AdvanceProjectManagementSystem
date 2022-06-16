@@ -1,0 +1,36 @@
+.search{
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    
+    
+
+}
+
+.search-label{
+    font-size: larger;
+    font-weight: 600;
+    margin-right: 5px;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    color: black;;
+    font-size:x-large;
+}
+
+.searchMinor{
+    display:flex;
+    flex-direction: row;
+    width:70vw;
+    height:5.5vh;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+   font-family: sans-serif;
+    
+}

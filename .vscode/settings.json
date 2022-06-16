@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "APMS",
+            "username": "mysql",
+            "database": "project_mangement",
+            "password": "R@hul99#",
+            "connectionTimeout": 100,
+            "group": "2"
+        }
+    ]
+}

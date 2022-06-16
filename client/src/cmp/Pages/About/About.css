@@ -1,0 +1,41 @@
+.about{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+   
+
+} 
+
+
+
+
+.about-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+.about-pictures{
+    display:flex;
+    flex-direction: column;
+    padding:10px;
+}
+
+.about-descripation{
+    width:40vw;
+    height:auto;
+    margin:20px;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+.about-pictures img{
+    width:40vw;
+    height: auto;
+    margin:20px;
+    border-radius: 10px;
+}

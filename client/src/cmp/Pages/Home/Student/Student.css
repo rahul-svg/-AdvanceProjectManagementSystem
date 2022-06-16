@@ -1,0 +1,10 @@
+.home{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: 200;
+    font-family: ' sans-serif';
+    color:whitesmoke;
+} 

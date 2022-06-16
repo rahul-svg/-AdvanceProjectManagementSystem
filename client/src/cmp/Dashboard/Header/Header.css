@@ -1,0 +1,11 @@
+.dashboardheader{
+    text-align: center;
+    align-items: center;
+}
+
+.dashboardheader h1{
+    font-family: sans-serif;
+    font-weight: 800;
+    color:whitesmoke;
+}
+

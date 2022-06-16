@@ -1,0 +1,90 @@
+.header_logo{
+  display:flex;
+  flex-direction: column;
+  width:100vw;
+    
+}
+
+.logo-strip{
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    height:auto;
+    justify-content: space-evenly;
+    background-color: rgba(236, 78, 78, 0.936);
+}
+
+
+.email{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.apms{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.apms img{
+    padding: 10px;
+}
+
+.apms h1 {
+    font-size: 50px;
+    color:rgba(236, 78, 78, 0.936)
+}
+
+
+.phone{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.phone img{
+    padding: 5px;
+}
+
+.email img{
+    padding:5px;
+}
+
+.phone h3{
+    color:rgb(7, 7, 154);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size:medium;
+}
+
+.email h3{
+    color:rgb(7, 7, 154);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 120;
+    font-size:medium;
+}
+
+.logo-img{
+ 
+ display:flex;
+ flex-direction: row;
+ justify-content: space-between;
+ padding: 10px 40px;
+ background-color:white;
+        
+}
+
+
+.GBPEC img{
+    width:15vw;
+    height:auto;
+}
+
+
+.DSEU img {
+    width:15vw;
+    height:auto;
+}
